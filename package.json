@@ -1,0 +1,10 @@
+{
+	"main": "server.js",
+	"dependencies": {
+		"body-parser": "^1.17.2",
+		"express": "^4.15.4",
+		"express-handlebars": "^3.0.0",
+		"pug": "^2.0.0-rc.3",
+		"stripe": "^4.24.1"
+	}
+}
